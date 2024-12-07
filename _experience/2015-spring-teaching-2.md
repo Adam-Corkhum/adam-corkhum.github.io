@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Lowes"
 collection: teaching
-type: "Workshop"
-permalink: /experience/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Store Associate"
+# permalink: /experience/lowes
+venue: "Pembroke, MA"
 date: 2015-01-01
 location: "City, Country"
 ---
