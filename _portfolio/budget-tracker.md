@@ -1,6 +1,6 @@
 ---
 title: "Budget Tracker"
-excerpt: "An android app that enables users to keep track of their purchases<br/><img src='../images/budget-tracker/home-page.png'>"
+excerpt: "An android app that enables users to keep track of their purchases<br/><img src='../images/budget-tracker/home-page.png' alt='Home Page' width='300'>"
 collection: portfolio
 ---
 
