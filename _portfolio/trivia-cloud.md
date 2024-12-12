@@ -1,6 +1,6 @@
 ---
 title: "Trivia Cloud"
-excerpt: "Trivia cloud<br/><img src='/images/500x300.png'>"
+excerpt: "Trivia cloud<br/>"
 collection: portfolio
 ---
 

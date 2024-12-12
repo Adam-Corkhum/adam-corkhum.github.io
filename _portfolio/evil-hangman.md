@@ -1,6 +1,6 @@
 ---
-title: "Super Math Maker"
-excerpt: "Educational platformer game created using the Godot Engine<br/><img src='/images/supermathmaker.png'>"
+title: "Evil Hangman"
+excerpt: "hangman<br/>"
 collection: portfolio
 ---
 

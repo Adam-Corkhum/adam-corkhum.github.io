@@ -1,6 +1,6 @@
 ---
 title: "Checkers"
-excerpt: "Checkers game<br/><img src='/images/supermathmaker.png'>"
+excerpt: "Checkers game<br/>"
 collection: portfolio
 ---
 
