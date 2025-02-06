@@ -3,5 +3,4 @@ title: "Sokoban"
 excerpt: "Sokoban<br/>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Sokoban is a classic puzzle game in which the player controls a character to push crates onto designated storage locations. This game was created using SFML and C++ in order to translate a set of characters in a text file into the board game, rendering each one as an image. The game has built-in collision detection, keyboard input handling, animation and multiple levels.

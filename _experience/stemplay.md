@@ -4,7 +4,9 @@ collection: teaching
 type: "STEM Instructor"
 # permalink: /experience/lowes
 venue: "Marshfield, MA"
-date: 2021-05-01
+start_date: "2022-05-01"
+end_date: "present"
+date: "2022-05-01"
 location: "Marshfield, MA"
 ---
 
