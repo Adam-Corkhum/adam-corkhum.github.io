@@ -11,8 +11,7 @@ Hi, I'm Adam, a recent graduate of University of Massachusetts Lowell with a Bac
 
 | **Category**        | **Skills**                          |
 |----------------------|                                    |
-| **Programming Languages** |                              |
-| **Frameworks & Libraries** |                               |
-| **Tools & Technologies**    |                               |
-| **Database Management**     |                               |
-| **Cloud & DevOps**          |                               |
+| **Programming Languages** |  C, C++, C#, Python, Java, JavaScript, Kotlin, Rust Assembly (Mic-1, MIPS, x86, y86)                           |
+| **Frameworks & Libraries** | React.js, Flutter, Unity, Godot                             |
+| **Tools & Technologies**    | Git, AWS (Lambda, DynamoDB, S3, API Gateway), CDK, LaTeX, HTML, Windows 10/11, Linux                            |
+| **Database Management**     |   DynamoDB, SQL                            |
